@@ -2,7 +2,15 @@
 
 Repository of the paper submitted at DSN 2021
 
-We argue that object detectors in the safety critical domain should prioritize detection of objects that are most likely to interfere with the actions of the actor, especially when they can impact task safety and reliability. In the context of autonomous driving, we propose new object detection metrics that reward the correct identification of objects that are most likely to interact with the subject vehicle (i.e., the actor), and that can interfere on its driving decision. To achieve this, we build a criticality model to reward the detection of the objects based on proximity, orientation, and relative velocity with respect to the target vehicle. Then, we apply our model on the recent autonomous driving dataset nuScenes, and we compare eighth different object detectors. Results show that, in several settings, object detectors that perform best according to the nuScenes ranking are not the preferable ones when the focus is shifted on safety and reliability.
+We argue that object detectors in the safety critical domain should prioritize detection of objects that are most likely to interfere with the actions of the actor, especially when they can impact task safety and reliability.
+
+In the context of autonomous driving, we propose new object detection metrics that reward the correct identification of objects that are most likely to interact with the subject vehicle (i.e., the actor), and that can interfere on its driving decision. 
+
+To achieve this, we build a criticality model to reward the detection of the objects based on proximity, orientation, and relative velocity with respect to the target vehicle. 
+
+Then, we apply our model on the recent autonomous driving dataset nuScenes, and we compare eighth different object detectors. Results show that, in several settings, object detectors that perform best according to the nuScenes ranking are not the preferable ones when the focus is shifted on safety and reliability.
+
+This repository contains the source code to apply such model on nuScenes, and reproduce our entire set of results.
 
 ## Contents of the repository
 - the modified nuScenes library
@@ -24,6 +32,8 @@ Then:
 At this point, you should see a results folders with some files. These files includes the novel metrics discussed in our work. The files are CSV and JSON, their content is straightforward, but if you have any kind of trouble just ask us for clarification.
 
 If you arrived here, it means you are fully able to obtain the results we presented in our work. You can further play with the notebook, for example to test different parameters and different models.
+
+For example, we present the notebooks ZZZ which tries multiple combinations of parameters. It was used to produce the data in our paper, but beware as it will take multiple days to complete.
 
 ## Contacts for further information and suggestions
 (missing for double blind review)
