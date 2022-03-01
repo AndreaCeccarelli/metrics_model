@@ -41,4 +41,4 @@ For example, we present the notebook metrics_model-many_settings.ipynb which tri
 
 
 ## Link to submission
-
+https://github.com/AndreaCeccarelli/metrics_model/blob/main/submitted_long_version.pdf
