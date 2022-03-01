@@ -1,6 +1,8 @@
-# DSN2021-metrics_model
+# metrics_model
 
 ### Repository of the paper SUBMITTED
+Paper available on arxiv
+
 ## Abstract and scope of the repo
 
 We argue that object detectors in the safety critical domain should prioritize detection of objects that are most likely to interfere with the actions of the actor, especially when they can impact task safety and reliability.
