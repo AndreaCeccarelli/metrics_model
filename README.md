@@ -39,11 +39,6 @@ If you arrived here, it means you are fully able to obtain the results we presen
 
 For example, we present the notebook metrics_model-many_settings.ipynb which tries multiple combinations of parameters. It has the settings we used to produce the data in our paper, but beware as it will take multiple weeks to complete. If you are interested in running it, we recommend to split it in multiple notebooks to parallelize execution.
 
-## Contacts for further information and suggestions
-(missing for double blind review)
 
 ## Link to submission
-(missing for double blind review)
 
-## How to cite our work
-(missing for double blind review)
