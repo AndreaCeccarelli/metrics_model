@@ -1,4 +1,4 @@
-# metrics_model
+# Object criticality model
 
 ### Repository of the paper "Safety-aware metrics for object detectors in autonomous driving"
 
