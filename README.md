@@ -1,7 +1,6 @@
 # metrics_model
 
-### Repository of the paper SUBMITTED
-Paper available on arxiv
+### Repository of the paper "Safety-aware metrics for object detectors in autonomous driving"
 
 ## Abstract and scope of the repo
 
