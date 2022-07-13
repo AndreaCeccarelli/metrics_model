@@ -1,12 +1,12 @@
 # Object criticality model
 
-### Repository of the paper "Safety-aware metrics for object detectors in autonomous driving"
+### Repository of the paper "Safety-aware measures for object detectors in autonomous driving"
 
 ## Abstract and scope of the repo
 
 We argue that object detectors in the safety critical domain should prioritize detection of objects that are most likely to interfere with the actions of the actor, especially when they can impact task safety and reliability.
 
-In the context of autonomous driving, we propose new object detection metrics that reward the correct identification of objects that are most likely to interact with the subject vehicle (i.e., the actor), and that can interfere on its driving decision. 
+In the context of autonomous driving, we propose new object detection measures that reward the correct identification of objects that are most likely to interact with the subject vehicle (i.e., the actor), and that can interfere on its driving decision. 
 
 To achieve this, we build a criticality model to reward the detection of the objects based on proximity, orientation, and relative velocity with respect to the target vehicle. 
 
