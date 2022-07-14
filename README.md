@@ -1,6 +1,6 @@
 # Object criticality model
 
-### Repository of the paper "Safety-aware measures for object detectors in autonomous driving"
+### Repository of the paper "Object (mis)Detection can Affect Safety and Reliability in Autonomous Driving: a Model and Measures" (tentative title, submitted)
 
 ## Abstract and scope of the repo
 
