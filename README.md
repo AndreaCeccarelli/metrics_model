@@ -30,14 +30,12 @@ At this point, if everything has been installed correctly, you should be able to
 Then:
 - in the folder "eval", there are some files that need to be replaced to your nuScene-dev installation. For example, if you installed nuScene libraries with conda, the path is something like: $HOME/anaconda3/envs/mmm/lib/python3.7/site-packages/nuscenes/eval. You can just overwrite files with the ones we provide.
 
-- run the notebook metrics_model.ipynb.  You should just need to adjust paths, then it should run smootly. The notebook contains instructions for its execution.
+- run the notebook compute_APCRIT.ipynb.  You should just need to adjust paths, then it should run smootly. The notebook contains instructions for its execution.
 
 At this point, if everything is correct, a "results" folders with some files will be created. These files includes the novel metrics discussed in our work. The files are CSV and JSON, and their content is straightforward, but if you have any kind of trouble just ask us for clarification.
 
-If you arrived here, it means you are fully able to obtain the results we presented in our work. You can further play with the notebook, for example to test different parameters and different models.
+If you arrived here, it means you are fully able to obtain the results we presented in our work. You can further play with the notebook, for example to test different parameters and different models. It has the settings we used to produce the data in our paper, but beware as it will take quite some time to complete.
 
-For example, we present the notebook metrics_model-many_settings.ipynb which tries multiple combinations of parameters. It has the settings we used to produce the data in our paper, but beware as it will take multiple weeks to complete. If you are interested in running it, we recommend to split it in multiple notebooks to parallelize execution.
+To explore the data, we present the notebook Analysis_of_data.ipynb. It allows extracting the data we present in the paper plus much more.
 
 
-## Link to submission
-https://github.com/AndreaCeccarelli/metrics_model/blob/main/submitted_long_version.pdf
