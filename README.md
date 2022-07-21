@@ -1,6 +1,6 @@
 # Object criticality model
 
-### Repository of the paper "Object (mis)Detection can Affect Safety and Reliability in Autonomous Driving: a Model and Measures" (tentative title, submitted) https://arxiv.org/abs/2203.02205
+### Repository of the paper "Object (mis)Detection can Affect Safety and Reliability in Autonomous Driving: a Model and Measures" (submitted) https://arxiv.org/abs/2203.02205
 
 ## Abstract and scope of the repo
 
