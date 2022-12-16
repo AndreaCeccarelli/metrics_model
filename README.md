@@ -25,7 +25,7 @@ The easiest approach is the following:
 2- install mmdetection3d https://mmdetection3d.readthedocs.io/en/latest/ . Latest version should be fine, without problems.
 3- download the models weights for nuScenes object detection from the model zoo of mmdetection3d https://mmdetection3d.readthedocs.io/en/latest/model_zoo.html
 
-At this point, if everything has been installed correctly, you should be able to run the notebook MMDetection3D.ipynb in folder notebooks (you should just need to adjust paths): you should be able to visualize results of the object detector of your choice. Such notebook allows collecting the data that needs to be processed by nuScenes, so it is important that it runs smoothly. The notebook contains instructions for its execution.
+At this point, if everything has been installed correctly, you should be able to run the notebook MMDetection3D.ipynb (you should just need to adjust paths): you should be able to visualize results of the object detector of your choice. Such notebook allows collecting the data that needs to be processed by nuScenes, so it is important that it runs smoothly. The notebook contains instructions for its execution.
 
 Then:
 - in the folder "eval", there are some files that need to be replaced to your nuScene-dev installation. For example, if you installed nuScene libraries with conda, the path is something like: $HOME/anaconda3/envs/mmm/lib/python3.7/site-packages/nuscenes/eval. You can just overwrite files with the ones we provide.
