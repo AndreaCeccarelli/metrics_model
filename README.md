@@ -2,6 +2,8 @@
 
 ### Repository of the paper "Evaluating the Consequences of Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures" (submitted) https://arxiv.org/abs/2203.02205
 
+(see also the submitted pdf and the supplemental material in this repo) 
+
 ## Abstract and scope of the repo
 
 We argue that object detectors in the safety critical domain should prioritize detection of objects that are most likely to interfere with the actions of the actor, especially when they can impact task safety and reliability.
