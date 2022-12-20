@@ -1,6 +1,6 @@
 # Object criticality model
 
-### Repository of the paper "Object (mis)Detection can Affect Safety and Reliability in Autonomous Driving: a Model and Measures" (submitted) https://arxiv.org/abs/2203.02205
+### Repository of the paper "Evaluating the Consequences of Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures" (submitted) https://arxiv.org/abs/2203.02205
 
 ## Abstract and scope of the repo
 
@@ -38,4 +38,8 @@ If you arrived here, it means you are fully able to obtain the results we presen
 
 To explore the data, we present the notebook Analysis_of_data.ipynb. It allows extracting the data we present in the paper plus much more.
 
+
+## Cite this work as:
+
+Andrea Ceccarelli, Leonardo Montecchi, Evaluating the Consequences of Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures, https://arxiv.org/abs/2203.02205
 
