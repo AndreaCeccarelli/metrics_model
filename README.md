@@ -44,5 +44,5 @@ To explore the data, we present the notebook Analysis_of_data.ipynb. It allows e
 
 ## Cite this work as:
 
-Andrea Ceccarelli, Leonardo Montecchi, Evaluating the Consequences of Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures, IEEE ACCESS, May 2023.
+Andrea Ceccarelli, Leonardo Montecchi, Evaluating Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures, IEEE ACCESS, May 2023.
 
