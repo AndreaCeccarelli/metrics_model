@@ -1,8 +1,9 @@
 # Object criticality model
 
-### Repository of the paper "Evaluating the Consequences of Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures" (submitted) https://arxiv.org/abs/2203.02205
+### Repository of the paper "Evaluating Object (mis)Detection from a Safety and Reliability Perspective: Discussion and Measures", accepted at IEEE ACCESS, May 2023.
 
-(see also the submitted pdf and the supplemental material in this repo) 
+https://arxiv.org/abs/2203.02205
+
 
 ## Abstract and scope of the repo
 
